@@ -2,7 +2,7 @@
     {
       "id": 1,
       "title": "Exquisite Watches",
-      "subtitle": "<span style='color: #FFFFFF;'>Gold Luxury </span><span style='color: black;'>Choose Us</span>",
+      "subtitle": "<span style='color: #FFFFFF;'>Gold Luxury, </span><span style='color: black;'>Choose Us</span>",
       "description": "Discover the Perfect Watch for Every Occasion and Elevate Your Style with Timeless Elegance and Precision Craftsmanship - watch",
       "price": "$499.00",
       "image": "img/Group 4.png", 
@@ -12,7 +12,8 @@
     {
       "id": 2,
       "title": "Dainty Timepieces",
-      "subtitle": "Silver Luxury, Choose Us",
+      
+       "subtitle": "<span style='color: #FFFFFF;'>Silver Luxury,</span><span style='color: black;'>Choose Us</span>",
       "description": "Explore the Ideal Timepiece for Any Moment and Enhance Your Style with Timeless Sophistication and Impeccable Craftsmanship - timepiece",
       "price": "$469.00",
       "image": "img/Group 5.png", 
@@ -22,7 +23,8 @@
     {
       "id": 3,
       "title": "Elegant Timepieces",
-      "subtitle": "Choose Luxury, Choose Us",
+     
+      "subtitle": "<span style='color: #FFFFFF;'>Choose Luxury, </span><span style='color: black;'>Choose Us</span>",
       "description": "Discover the Perfect Watch for Every Occasion and Elevate Your Style with Timeless Elegance and Precision Craftsmanship - watch",
       "price": "$529.00",
       "image": "img/Group 6.png", 
@@ -32,7 +34,7 @@
     {
       "id": 4,
       "title": "Refined Timepieces",
-      "subtitle": "Choose Luxury, Choose Us",
+     "subtitle": "<span style='color: #FFFFFF;'>Choose Luxury, </span><span style='color: black;'>Choose Us</span>",
       "description": "Explore the Ideal Timepiece for Any Moment and Enhance Your Style with Timeless Sophistication and Impeccable Craftsmanship - timepiece",
       "price": "$599.00",
       "image": "img/Group 7.png", 
