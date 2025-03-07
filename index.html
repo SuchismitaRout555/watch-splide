@@ -1,29 +1,69 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Watches </title>
-  
+  <title>Watches</title>
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Sofia+Sans:wght@400;500;600;700;900&display=swap"
+    rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
   <!-- Splide CSS -->
   <link rel="stylesheet" href="./splide/splide.min.css">
+  
+  <!-- Font Awesome for social icons -->
+
   <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-  <div class="container">
+
+  
     <header>
       <!-- Navbar as image -->
       <div class="navbar-container">
         <img src="./img/Frame 2.png" alt="Navigation Bar" class="navbar-image">
       </div>
-    </header>
-    
-    <watch-slider></watch-slider>
-  </div>
+
+
+
+
+    <!-- Hero Carousel Section -->
+    <section class="hero-carousel">
+      <div class="container">
+        <div class="carousel-content">
+          <div class="product-info">
+            <h1 id="product-title">Exquisite Watches</h1>
+            <h2 id="product-subtitle">Gold Luxury, <span class="title-highlight">Choose US</span></h2>
+            <p id="product-description">Discover the Perfect Watch for Every Occasion and Elevate Your Style with
+              Timeless Elegance and Precision Craftsmanship - watch</p>
+            <div class="product-price">
+              <span id="product-price">$499</span>
+            </div>
+            <div id="social-links-container"></div>
+          </div>
+          <div class="product-image-slider">
+            <div class="splide" role="group">
+              <div class="splide__track">
+                <ul class="splide__list" id="watch-slides">
+                  <!-- added dynamically from JSON -->
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+        </header>
   
-  <!-- Scripts -->
+
+  <!-- Splide JS -->
   <script src="./splide/splide.min.js" defer></script>
-  <script src="data.js"></script>
-  
+  <script src="script.js" defer></script>
+
 </body>
+
 </html>
