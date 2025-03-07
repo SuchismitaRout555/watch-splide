@@ -1,0 +1,42 @@
+ [
+    {
+      "id": 1,
+      "title": "Exquisite Watches",
+      "subtitle": "<span style='color: #FFFFFF;'>Gold Luxury </span><span style='color: black;'>Choose Us</span>",
+      "description": "Discover the Perfect Watch for Every Occasion and Elevate Your Style with Timeless Elegance and Precision Craftsmanship - watch",
+      "price": "$499.00",
+      "image": "img/Group 4.png", 
+      "backgroundColor": "#f4d3b0", 
+      "watchBrand": "TISSOT"
+    },
+    {
+      "id": 2,
+      "title": "Dainty Timepieces",
+      "subtitle": "Silver Luxury, Choose Us",
+      "description": "Explore the Ideal Timepiece for Any Moment and Enhance Your Style with Timeless Sophistication and Impeccable Craftsmanship - timepiece",
+      "price": "$469.00",
+      "image": "img/Group 5.png", 
+      "backgroundColor": "#e0e0e0", 
+      "watchBrand": "TAG HEUER"
+    },
+    {
+      "id": 3,
+      "title": "Elegant Timepieces",
+      "subtitle": "Choose Luxury, Choose Us",
+      "description": "Discover the Perfect Watch for Every Occasion and Elevate Your Style with Timeless Elegance and Precision Craftsmanship - watch",
+      "price": "$529.00",
+      "image": "img/Group 6.png", 
+      "backgroundColor": "#9fd9a0",
+      "watchBrand": "ROLEX"
+    },
+    {
+      "id": 4,
+      "title": "Refined Timepieces",
+      "subtitle": "Choose Luxury, Choose Us",
+      "description": "Explore the Ideal Timepiece for Any Moment and Enhance Your Style with Timeless Sophistication and Impeccable Craftsmanship - timepiece",
+      "price": "$599.00",
+      "image": "img/Group 7.png", 
+      "backgroundColor": "#f4a593", 
+      "watchBrand": "CERTINA"
+    }
+  ]
